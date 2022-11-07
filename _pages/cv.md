@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics and Applied Mathematics, Fudan University, 2017
-* M.S. in Mathematics, GitHub University, 2019
-* Ph.D. in Computational Sciences, Engineering and Mathematics, University of Texas at Austin, 2025 (expected)
+* M.S. in Mathematics, New York University, 2019
+* Ph.D. in Computational Science, Engineering, and Mathematics (CSEM), University of Texas at Austin, 2025 (expected)
 
 Publications
 ======
