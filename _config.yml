@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mathew Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Mathew Hu"
-description              : &description "Ph.D. student at Oden Institute in Unversity of Texas at Austin"
+description              : &description "This this Mathew Hu's personal website."
 url                      : https://mathewgaohu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mathewgaohu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mathew Hu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Oden Institute, University of Texas at Austin"
+  bio              : "Ph.D. student at the University of Texas at Austin"
   location         : "Austin, Texas, U.S."
 #   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
