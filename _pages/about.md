@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a current Ph.D. student at Oden Institute in University of Texas at Austin. 
+I am a current Ph.D. student at Oden Institute for Computational Engineering & Sciences.
 
 Research Interest
 ======
