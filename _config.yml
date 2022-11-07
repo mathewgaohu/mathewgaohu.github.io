@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mathew Hu / Mathew Hu's Homepage"
+title                    : "Mathew Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Mathew Hu"
 description              : &description "Ph.D. student at Oden Institute in Unversity of Texas at Austin"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mathew Hu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Austin, TX, USA"
+  bio              : "Ph.D. student at Oden Institute, University of Texas at Austin"
+  location         : "Austin, Texas, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mathewgaohu"
   google_plus      :
   keybase          :
   instagram        :
