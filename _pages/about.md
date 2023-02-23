@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a current Ph.D. student at Oden Institute for Computational Engineering & Sciences.
+I am a Ph.D. candidate at Oden Institute for Computational Engineering & Sciences. My research invovles approximation methods for high-rank Hessians in seismic inverse problems, and the applications of these approximations in in uncertainty quantification. 
 
 Research Interest
 ======
-Inverse problem, Optimization, Seismic Inversion, High-rank operator approximation.
-
+1. Applications: (1) Seismic imaging.
+2. Methods: (1) Large scale Bayesian inference; (2) Numerical Optimization; (3) Hessian approximation in PDE constrained inverse problems.
