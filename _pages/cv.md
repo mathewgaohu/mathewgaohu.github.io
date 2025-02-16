@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 
 [Full Curriculum Vitae (PDF)](https://mathewgaohu.github.io/files/cv.pdf)
+
 [Resume](https://mathewgaohu.github.io/files/resume.pdf)
